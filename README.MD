@@ -1,4 +1,9 @@
 # What is this? 
-This is a branch with my first Android app
-
+<ul>
+<li>
+the first-project branch contains the first project "Happy Birthday".
 ![Picture for my project](./images/first-project-android.png)
+</li>
+<li>
+the second-project branch contains the second project "Dice Roll".
+</li>
